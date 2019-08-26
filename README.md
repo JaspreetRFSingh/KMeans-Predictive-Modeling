@@ -6,6 +6,6 @@ The model in this repository has been implemented by k-means classification whic
 ### Use
 An attempt to make the code as readable as possible has been made. <br>
 You can modify the code to create your own k-means classification.</br>
-**e.g.** Instead of states, you can use languages which people speak throughout the world.</br>
+**e.g.** Instead of *states*(a list used in the *fav_sport.py* file), you can use languages which people speak throughout the world.</br>
 Feel free to reach out for any suggestions or help!
 
