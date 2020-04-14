@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from util_methods import distance
 
 
-
+#major cluster comment
 def major_cluster(labels):
     no_of_elements = Counter(labels)
     winner, winner_count = no_of_elements.most_common()[0]
