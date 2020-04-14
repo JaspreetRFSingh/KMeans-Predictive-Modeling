@@ -1,7 +1,7 @@
 # KMeans-Predictive-Modeling
 K-Means Clustering is a Machine Learning Algorithm which creates a model based on the nearest-neighbour-choice. </br>
-
 The model in this repository has been implemented by k-means classification which predics the favourite sport in a state(in India).</br>
+This is a duplicate readme just to test the repo's pull requests. </br>
 
 
 ### Explanation
